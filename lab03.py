@@ -1,3 +1,4 @@
+# lab 03 solutions
 import random
 
 # Dice options using list() and range()
